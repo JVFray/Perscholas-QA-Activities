@@ -13,6 +13,6 @@ list.append(c)
 list.append(d)
 
 list.sort()
-print (list)
+
 print("Your smallest number is", list[0] )
 print("Your largest number is", list[3])
