@@ -1,4 +1,4 @@
-print("Let me tell you about the size of your numbers!")
+print("Let me tell you about some numbers!")
 print("Give me 4 random numbers")
 
 a = int(input("Add your first number "))
